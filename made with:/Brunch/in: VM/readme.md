@@ -5,3 +5,6 @@ sch: https://github.com/sebanc/brunch/issues?q=VM
 - https://github.com/sebanc/brunch/issues/861
 - https://github.com/sebanc/brunch/issues/1708
 - https://github.com/sebanc/brunch/issues/303
+
+## VMware / VirtualBox
+- https://github.com/sebanc/brunch/issues/302
