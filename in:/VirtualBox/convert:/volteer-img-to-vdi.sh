@@ -1,0 +1,1 @@
+VBoxManage convertfromraw --format VDI Chromeos_volteer_recovery.img Chromeos_volteer_recovery.vdi
