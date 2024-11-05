@@ -8,7 +8,10 @@ sch:
 ## Bug:
 - https://github.com/sebanc/brunch/issues/1162
 
-# video:
+# Guide:
+- https://www.digitaltrends.com/computing/how-to-run-chrome-os-in-virtualbox/
+
+## video:
 - [How To Install Chrome OS In Virtual Box [ 2024 ] Windows](https://youtu.be/fdmDhb_OCDI)
 
 # image:
