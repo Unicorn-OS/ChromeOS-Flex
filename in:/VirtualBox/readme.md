@@ -1,5 +1,6 @@
 sch:
 - https://www.google.com/search?q=chromeos+in+virtualbox
+- https://duckduckgo.com/?q=chromeos+virtualbox+image
 - https://www.google.com/search?q=chromeos+rammus+virtualbox
 
 # source:
